@@ -1,0 +1,77 @@
+name: event_mate
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+  get: ^4.6.6
+  google_fonts: ^6.1.0
+  flutter_screenutil: ^5.9.0
+  shared_preferences: ^2.2.2
+  firebase_core: ^2.17.0
+  firebase_auth: ^4.10.1
+  firebase_analytics: ^10.5.1
+  flutter_svg: ^2.0.7
+  country_picker: ^2.0.21
+  firebase_storage: ^11.3.0
+  cloud_firestore: ^4.10.0
+  google_sign_in: ^6.1.5
+  image_picker: ^1.0.5
+  chat_bubbles: ^1.5.0
+  uuid: ^4.2.2
+  syncfusion_flutter_datepicker: ^24.1.41
+  purchases_flutter: ^6.24.0
+  fluttertoast: ^8.2.4
+#  google_sign_in: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/svg/
+#    - assets/logo/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

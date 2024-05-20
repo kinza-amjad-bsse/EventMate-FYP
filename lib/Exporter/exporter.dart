@@ -1,0 +1,10 @@
+export '../Constants/colors.dart';
+export '../Constants/fonts.dart';
+export '../Routes/pages.dart';
+export '../Constants/variable.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:flutter_screenutil/flutter_screenutil.dart';
+export 'package:flutter/material.dart';
+export 'package:get/get.dart';
+export '../../Utils/my_print.dart';
+export 'package:event_mate/generated/assets.dart';

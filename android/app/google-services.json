@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "420452724549",
+    "project_id": "event-mate-fyp-bsse",
+    "storage_bucket": "event-mate-fyp-bsse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420452724549:android:ba2226ab46e09372c6182c",
+        "android_client_info": {
+          "package_name": "com.fyp.event_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420452724549-c7h73t6c0bokqimhun2qo8ck2ir9gbu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.event_mate",
+            "certificate_hash": "8c55e4a5e03b3d0cb5ce808e655b9500b952d38a"
+          }
+        },
+        {
+          "client_id": "420452724549-onemrhlhc5ivdfkfqhia6a2ee4d4v1dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.event_mate",
+            "certificate_hash": "c351d2edc31363dc102a7899151e21d6efb63598"
+          }
+        },
+        {
+          "client_id": "420452724549-li376q9fnna0ftsmujsn96g9rbgfs582.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbDXumA5bGat7wKeolDd9OgA1iO61Qua8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420452724549-a71agq0sud6ioi5psvqqbifulecuheri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420452724549-pae9v1ishiah9q8hqb2g2ppsntkb06hs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fyp.eventMate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420452724549:android:b2c881e2fabace8bc6182c",
+        "android_client_info": {
+          "package_name": "com.kinza.event_mate_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420452724549-li376q9fnna0ftsmujsn96g9rbgfs582.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbDXumA5bGat7wKeolDd9OgA1iO61Qua8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420452724549-a71agq0sud6ioi5psvqqbifulecuheri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420452724549-pae9v1ishiah9q8hqb2g2ppsntkb06hs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fyp.eventMate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
